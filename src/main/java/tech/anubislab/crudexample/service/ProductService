@@ -1,0 +1,8 @@
+package tech.anubislab.crudexample.service;
+
+@Service
+public class ProductService{
+
+    private ProductRepository repository;
+
+}
